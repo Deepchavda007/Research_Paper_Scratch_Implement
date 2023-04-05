@@ -11,6 +11,6 @@ This repository contains code for the following Keras models:
 - MobileNet
 - AlexNet
 
-All architectures are compatible with both Keras.
+All architectures are compatible with Keras.
 
 
